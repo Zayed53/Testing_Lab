@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "2d16e98a-f277-49af-85fe-f684db396b44",
+		"name": "TESTING",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26918762",
+		"_collection_link": "https://restless-sunset-291016.postman.co/workspace/APITEST~78e86690-0821-4a56-9f59-99091f9906cd/collection/26918762-2d16e98a-f277-49af-85fe-f684db396b44?action=share&source=collection_link&creator=26918762"
+	},
+	"item": [
+		{
+			"name": "Test!",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Check_Booktype",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Setting variable",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Single Book checking",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Register",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "postNewORder",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
